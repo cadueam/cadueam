@@ -1,7 +1,8 @@
 ### Hi there, my name is Carlos👋
 
 
-I'm a graphic designer with a foot in coding, so i decided to change my carreer and since the 01/2023 im learning how to code! 
+I'm a graphic designer with a foot in coding, so I decided to change my career, and since January 2023, I've been learning how to code!
+
 
 ```javascript
   const Cadu = {
