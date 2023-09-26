@@ -1,16 +1,18 @@
-### Hi there 👋
+### Hi there, my name is Carlos👋
 
-<!--
-**cadueam/cadueam** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+I'm a graphic designer with a foot in coding, so i decided to change my carreer and since the 01/2023 im learning how to code! 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+```javascript
+  const Cadu = {
+  pronouns: "he" | "him",
+  code: [HTML, CSS],
+  learning: [Javascript,Git/Github,],
+  skills: [Graphic Design: Photoshop, Illustrator, After Effects
+          Video Editing: Premiere Pro
+          UI/UX Design: Figma
+          3D Modeling and Animation: Blender
+          Web Development: HTML, CSS
+          Currently Learning: Java],
+}
+```
