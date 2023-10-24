@@ -7,13 +7,12 @@ I'm a graphic designer with a foot in coding, so I decided to change my career, 
 ```javascript
   const Cadu = {
   pronouns: "he" | "him",
-  code: [HTML, CSS],
-  learning: [Javascript,Git/Github,],
+  code: [HTML, CSS, JavaScript, Python],
+  learning: [Javascript, Python,Git/Github,],
   skills: [Graphic Design: Photoshop, Illustrator, After Effects
           Video Editing: Premiere Pro
           UI/UX Design: Figma
           3D Modeling and Animation: Blender
-          Web Development: HTML, CSS
-          Currently Learning: Java],
+          Web Development: HTML, CSS],
 }
 ```
